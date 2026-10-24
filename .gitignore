@@ -1,0 +1,40 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# Build outputs
+backend/uploads/
+frontend/build/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# React specific
+frontend/.pnp
+frontend/.pnp.js
+
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
